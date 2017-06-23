@@ -1,0 +1,28 @@
+{
+  "name": "qiniu-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs qiniu upload sdk",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xialeistudio/qiniu-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xialeistudio/qiniu-nodejs/issues"
+  },
+  "homepage": "https://github.com/xialeistudio/qiniu-nodejs#readme",
+  "dependencies": {
+    "qiniu": "^6.1.13"
+  },
+  "devDependencies": {
+    "@types/qiniu": "^6.1.0",
+    "typescript": "^2.3.4"
+  }
+}
