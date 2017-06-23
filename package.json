@@ -1,5 +1,5 @@
 {
-  "name": "qiniu-nodejs",
+  "name": "@xialeistudio/qiniu",
   "version": "1.0.0",
   "description": "nodejs qiniu upload sdk",
   "main": "index.js",
